@@ -1,2 +1,2 @@
 # foraryan
-For react google api
+Lets learn react google api
